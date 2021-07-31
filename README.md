@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi 👋 I’m Globateur, and welcome on my profile ! </h1>
+<h1 align = "center"> Hi 👋 I’m Axel Thauvin, and welcome on my profile ! </h1>
 
 <h1> Presentation  <img src="https://image.flaticon.com/icons/png/512/1527/1527031.png" width = 40px> </h1> 
 
