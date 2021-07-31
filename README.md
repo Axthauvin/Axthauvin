@@ -16,9 +16,9 @@
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=globateur&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=globateur&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # All my languages & programs <img src="./code.svg" width = 30px style="vertical-align:middle">
@@ -35,9 +35,9 @@
 
 # My social networks
 
-- <a href = "https://twitter.com/axthauvin"> <img src="./twitter.png" width = 30px> @axthauvin. </a> 
-- <a href = "https://instagram.com/axthauvin"> <img src="./instagram.png" width = 30px> @axthauvin. </a> 
-- <a href = "https://www.youtube.com/channel/UCF6zpti-ice10f9RInxHyFA"> <img src="./youtube.png" width = 30px> Mister Codeur. </a> 
+- <a href = "https://twitter.com/axthauvin"> <img src="./twitter.png" width = 30px> @axthauvin</a> 
+- <a href = "https://instagram.com/axthauvin"> <img src="./instagram.png" width = 30px> @axthauvin</a> 
+- <a href = "https://www.youtube.com/channel/UCF6zpti-ice10f9RInxHyFA"> <img src="./youtube.png" width = 30px> Mister Codeur</a> 
 
 
 <!---
