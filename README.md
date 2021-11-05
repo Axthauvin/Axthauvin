@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi 👋 I’m Axel Thauvin, and welcome on my profile ! </h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=white&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=radical&layout=compact" />
 
 
 <!--
