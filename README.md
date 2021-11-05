@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=white)
 -->
 
-***I am a yound teenager, who loves everything that is more or less related to computers sciences and programming My ambition is to democratize computer science, especially for young people, by proposing crazy project ideas, but which are fun to use.***
+***I am a teenager, who loves everything that is more or less related to computers sciences and programming My ambition is to democratize computer science, especially for young people, by proposing crazy project ideas, but which are fun to use.***
 
 
 
