@@ -1,20 +1,32 @@
 <h1 align = "center"> Hi 👋 I’m Axel Thauvin, and welcome on my profile ! </h1>
 
-<h1> Presentation  <img src="https://image.flaticon.com/icons/png/512/1527/1527031.png" width = 40px> </h1> 
 
 
-- I am a yound teenager, who loves everything that is more or less related to computers sciences and programming.
-- I am currently in my last year of high school, but i already have made a few projects.
-- I am currently trying to test the limits of javascript, by creating a <a href="https://github.com/Globateur/Netflix-better-marks"> Chrome extension for Netflix <img src="./Netflix-icon.png" width=30px></a> , or even a  <a href = "https://programmemotscroises.github.io/">crossword solver</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=white)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=white)](https://github.com/anuraghazra/github-readme-stats))
+
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=white)
+-->
+
+***I am a yound teenager, who loves everything that is more or less related to computers sciences and programming My ambition is to democratize computer science, especially for young people, by proposing crazy project ideas, but which are fun to use.***
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=radical)
+### My Netflix chrome extension
+<img align="left" width="50" height="50" src="./Netflix-icon.png">
+This is a chrome extension that allows you to display ratings for movies & series on netflix.
+I managed to find a way to use known sites that give ratings, to display them directly on the interface of Netflix.
+<a href="https://github.com/Axthauvin/Netflix-better-marks">See more<a/>
 
+
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
-# All my languages & programs <img src="./code.svg" width = 30px style="vertical-align:middle">
+### All my languages & programs 💻
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter)&nbsp;
 ![C#](https://img.shields.io/badge/C-sharp-white?style=plastic&logo=c-sharp)&nbsp;
 ![VSCODE](https://img.shields.io/badge/Visual-studio-white?style=plastic&logo=visual-studio&logoColor=007ACC)&nbsp;
