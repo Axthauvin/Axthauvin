@@ -3,17 +3,10 @@
 <h1> Presentation  <img src="https://image.flaticon.com/icons/png/512/1527/1527031.png" width = 40px> </h1> 
 
 
-- <img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_telegram_airplane_air_plane_paper_airplane_icon_143169.png" width = 30px> I am a yound teenager, who loves everything that is more or less related to computers sciences and programming.
+- I am a yound teenager, who loves everything that is more or less related to computers sciences and programming.
+- I am currently in my last year of high school, but i already have made a few projects.
+- I am currently trying to test the limits of javascript, by creating a <a href="https://github.com/Globateur/Netflix-better-marks"> Chrome extension for Netflix <img src="./Netflix-icon.png" width=30px></a> , or even a  <a href = "https://programmemotscroises.github.io/">crossword solver</a>
 
-
-- <img src="./graduation-hat-white.svg" width = 30px style="vertical-align:middle"> I am currently in my last year of high school, but i already have made a few projects.
-
-- <img src="./web-development.svg" width = 30px style="vertical-align:middle"> I am currently trying to test the limits of javascript, by creating a <a href="https://github.com/Globateur/Netflix-better-marks"> Chrome extension for Netflix <img src="./Netflix-icon.png" width=30px></a> , or even a  <a href = "https://programmemotscroises.github.io/">crossword solver</a>
-
-<!--
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=globateur&show_icons=true&theme=synthwave)
--->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=radical)
