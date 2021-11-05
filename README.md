@@ -1,11 +1,7 @@
 <h1 align = "center"> Hi 👋 I’m Axel Thauvin, and welcome on my profile ! </h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=white" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=white&layout=compact" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=white&layout=compact" />
+
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=white)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
