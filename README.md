@@ -1,8 +1,6 @@
 <h1 align = "center"> Hi 👋 I’m Axel Thauvin, and welcome on my profile ! </h1>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=white)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=white)](https://github.com/anuraghazra/github-readme-stats))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=white)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
@@ -37,12 +35,6 @@ I managed to find a way to use known sites that give ratings, to display them di
 ![CSS](https://img.shields.io/badge/Css-white?style=plastic&logo=css3&logoColor=007ACC)&nbsp;
 ![Scratch](https://img.shields.io/badge/Scratch-white?style=plastic&logo=scratch)&nbsp;
 
-
-# My social networks
-
-- <a href = "https://twitter.com/axthauvin"> <img src="./twitter.png" width = 30px> @axthauvin</a> 
-- <a href = "https://instagram.com/axthauvin"> <img src="./instagram.png" width = 30px> @axthauvin</a> 
-- <a href = "https://www.youtube.com/channel/UCF6zpti-ice10f9RInxHyFA"> <img src="./youtube.png" width = 30px> Mister Codeur</a> 
 
 
 <!---
