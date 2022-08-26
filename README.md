@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=white)
 -->
 
-***I am a teenager, who loves everything that is more or less related to computers sciences and programming My ambition is to democratize computer science, especially for young people, by proposing crazy project ideas, but which are fun to use.***
+***I am a young student, who loves everything that is more or less related to computers sciences and programming My ambition is to democratize computer science, especially for young people, by proposing crazy project ideas, but which are fun to use.***
 
 
 
@@ -40,8 +40,3 @@ I managed to find a way to use known sites that give ratings, to display them di
 ![Scratch](https://img.shields.io/badge/Scratch-white?style=plastic&logo=scratch)&nbsp;
 
 
-
-<!---
-Globateur/Globateur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
