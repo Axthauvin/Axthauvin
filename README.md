@@ -1,8 +1,5 @@
 <h1 align = "center"> Hi 👋 I’m Axel Thauvin, and welcome on my profile ! </h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=radical&layout=compact" />
-
-
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axthauvin&show_icons=true&theme=white)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&theme=white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -15,10 +12,10 @@
 
 
 
-### My Netflix chrome extension
-<img align="left" width="50" height="50" src="./Netflix-icon.png">
-This is a chrome extension that allows you to display ratings for movies & series on netflix.
-I managed to find a way to use known sites that give ratings, to display them directly on the interface of Netflix.
+### My custom Apache server : ZAMP
+<img align="left" width="100" height="50" src="https://raw.githubusercontent.com/Axthauvin/ZAMP/main/src/svg/fishy.svg">
+ZAMP is an all-in-one web development stack, integrating Apache, MySQL, and PHP for seamless local development.
+With zero configuration and one-click service start, it boosts productivity and efficiency, letting you focus on building your application.
 <a href="https://github.com/Axthauvin/Netflix-better-marks">See more<a/>
 
 
@@ -50,4 +47,7 @@ I managed to find a way to use known sites that give ratings, to display them di
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axthauvin&layout=donut" />
+
 
