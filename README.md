@@ -7,16 +7,13 @@ I aim to make technology accessible and fun, especially for young people, throug
 
 ### 🚀 Featured Project: ZAMP
 
-<a href="https://github.com/Axthauvin/Netflix-better-marks">
-<img align="left" width="100" height="60" src="https://raw.githubusercontent.com/Axthauvin/ZAMP/main/src/svg/fishy.svg">
+<a href="https://github.com/Axthauvin/zamp">
+  <img align="left" src="https://raw.githubusercontent.com/Axthauvin/ZAMP/main/src/svg/fishy.svg" height="50" alt="ZAMP logo">
 </a>
-
-<span>
-ZAMP is an all-in-one web development stack integrating Apache, MySQL, and PHP, designed for productivity. With zero configuration and one-click service start, it lets you focus on building great apps.
-<a href="https://github.com/Axthauvin/Netflix-better-marks">Learn more</a>
-</span>
-
-
+ZAMP is an all-in-one web development stack, integrating Apache, MySQL, and PHP for seamless local development.
+With zero configuration and one-click service start, it boosts productivity and efficiency, letting you focus on building your application.
+<a href="https://github.com/Axthauvin/zamp">See more</a>
+<br clear="left"/>
 
 ---
 
