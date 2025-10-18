@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Axel 👋</h1>
 
-\*Student at **EPITA\***<br>
+*Student at **EPITA***<br>
 Building useful tools and solving problems with code;<br>
 
 - I use daily: `.ts`, `.tsx`, `.css`, `.py`, `.Java`
