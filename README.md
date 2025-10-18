@@ -1,16 +1,16 @@
-## Hello there, I'm Axel
+<h1 align="center">Hello there, I'm Axel 👋</h1>
 
-Student at **EPITA** (4th year);<br>
+\*Student at **EPITA\***<br>
 Building useful tools and solving problems with code;<br>
 
-- ⚙️ I use daily: `.ts`, `.tsx`, `.css`, `.python`, `.Java`
-- 🎯 I'm passionate about **making tech accessible**
-- 💅 Built: **ZAMP**, Chess Analyzer, ecrismalettre.fr, EPITRACE Packs, etc…
-- 💬 `ping` me about **development**, **web tools**, **chess**, **problem-solving**
+- I use daily: `.ts`, `.tsx`, `.css`, `.py`, `.Java`
+- I'm passionate about **making tech accessible**
+- Built: **ZAMP**, Chess Analyzer, ecrismalettre.fr, EPITRACE Packs, etc…
+- `ping` me about **development**, **web tools**, **chess**, **problem-solving**
 
 ---
 
-## 🎯 Featured Project
+## Featured Project
 
 ### Zamp
 
@@ -22,10 +22,9 @@ _Like Wamp, but with a cleaner UI_
 
 ZAMP is an all-in-one web development stack, integrating Apache, MySQL, and PHP for seamless local development.
 With zero configuration and one-click service start, it boosts productivity and efficiency, letting you focus on building your application.
-<a href="https://github.com/Axthauvin/zamp">See more</a>
-<br clear="left"/>
 
 [Check it out →](https://github.com/Axthauvin/Zamp)
+<br clear="left"/>
 
 ---
 
