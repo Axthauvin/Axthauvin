@@ -3,9 +3,7 @@
 *Student at **EPITA** | AI Engineer & Founder*<br>
 Just a guy trying to build useful tools, solve problems with code, and bring strange ideas to life.<br>
 
-- I use daily: `.ts`, `.tsx`, `.css`, `.py`, `.Java`
-- I'm passionate about **making tech accessible** and transmitting knowledge
-
+- I use daily: `.ts`, `.tsx`, `.css`, `.py`, `.java`, `.cpp`
 ---
 
 ## Featured Projects
